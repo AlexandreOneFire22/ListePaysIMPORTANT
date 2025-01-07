@@ -51,7 +51,9 @@ clickerPays.addEventListener("click", async() => {
                     <h5><strong>${detailsPays.translations.fra.common}</strong></h5>
                     <p><strong>Capitale :</strong>${detailsPays.capital[0]}</p>
                     <p><strong>Population :</strong> ${detailsPays.population}</p>
-                    
+                    <p><strong>Région :</strong> ${detailsPays.region}</p>
+                    <p><strong>Sous-région :</strong> ${detailsPays.subregion}</p>
+                  
                                   
                 </div>`
 
